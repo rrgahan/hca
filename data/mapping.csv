@@ -1,0 +1,228 @@
+code,name,category
+12000,Disturbance - Other,DISTURBANCE
+24000,Misc,OTHER
+40222,Welfare Check,CHECK
+35222,Suspicious Person,CHECK
+13000,Domestic Disturbance,DOMESTIC
+3111,Accident,TRAFFIC
+82000,Other,PARKING
+82222,24 Hr,PARKING
+42000,Other,VANDALISM
+5000,Non-Domestic,ASSAULT
+56466,Mental Investigation,MENTAL
+54222,Found Articles,CHECK
+35333,Suspicious Vehicle,CHECK
+3000,Accident,TRAFFIC
+27111,Possession,NARCOTICS
+94555,Suspended Driver,TRAFFIC
+23300,Shoplifting,LARCENY
+14000,Drunk,ALCOHOL
+23500,From vehicle,LARCENY
+3211,Accident,TRAFFIC
+4999,Unknown,FALSE_ALARM
+25211,Juvenile - Missing Person,CHECK
+24244,Trespassing,TRESPASSING
+56000,Medical Emergency,MEDICAL
+94000,Other,TRAFFIC
+5100,Assault - Domestic,DOMESTIC
+23400,From building,LARCENY
+6000,Burglary,BURGLARY
+70111,Warrant,WARRANT
+3021,Accident,TRAFFIC
+28000,Traffic Hazard,TRAFFIC
+9000,Other,CHILD_ABUSE
+3121,Accident,TRAFFIC
+40112,Assist Moterist,CHECK
+23900,Other,LARCENY
+61000,Other,TELEPHONE
+14100,DWI,ALCOHOL
+1111,Abandoned Bicycle,CHECK
+27000,Other,NARCOTICS
+4111,Employee,FALSE_ALARM
+12401,Neighbors,DISTURBANCE
+29300,Card,FRAUD
+31222,Other,OPS
+100,Duplicate,VOID
+12341,Fireworks,DISTURBANCE
+22000,Juvenile - Not classified,OTHER
+25111,Missing Person - Adult,CHECK
+54111,Lost or Stolen Item,CHECK
+40155,Open Door,CHECK
+9500,Missing Person - Adult,CHECK
+29500,Con games,FRAUD
+23600,Vehicle Accessories,LARCENY
+94444,Improper Registration,TRAFFIC
+82133,Blocking Driveway,PARKING
+12311,Party,DISTURBANCE
+23800,Stolen Bike,LARCENY
+40166,City License Investigation,CHECK
+41000,Auto Theft,THEFT
+61111,Threatening Calls,TELEPHONE
+4444,Other,FALSE_ALARM
+24122,Hazard - Other,CHECK
+24166,Property Damange - Unintentional,CHECK
+17400,Counterfeit Money,FORGERY
+16000,Accidential Explosion of Building,CHECK
+56400,Mental Investigation - EPC,MENTAL
+56366,Suicide Attempt,SUICIDE
+17100,Checks,FORGERY
+28444,Hazards - Traffic Signal,TRAFFIC
+1222,Abandoned Building,CHECK
+29400,Impersanation,FRAUD
+40133,Other,CHECK
+42100,Graffiti,VANDALISM
+24255,Protection Order Violation,PROTECTION_ORDER
+9300,Counterfitting,FORGERY
+37000,Robbery,ROBBERY
+23310,Gas pump,LARCENY
+82333,Sidewalk,PARKING
+40111,Assist Citizen,CHECK
+24144,Littering,LITTERING
+14720,Public Consumption,ALCOHOL
+29510,Con Games,FRAUD
+31100,Outside Crime,OTHER
+11200,Natural Death,CHECK
+14400,MIP,ALCOHOL
+82666,Residential,PARKING
+51000,Embezzlement,EMBEZZLEMENT
+41100,Unauthorized Use of Vehicle,TRAFFIC
+29100,Fail to Pay,FRAUD
+8111,Concealed,WEAPONS
+82888,Tow for Unpaid Tickets,PARKING
+31444,OPS Transport,OPS
+3221,Accident,TRAFFIC
+82111,Parking,PARKING
+27222,Sale or Delivery,NARCOTICS
+12100,Public Urination,DISTURBANCE
+21000,False Information,FALSE_INFORMATION
+4222,False Alarm,FALSE_ALARM
+40333,UNL Building Unlock,CHECK
+61009,Other/Protective Order,TELEPHONE
+8000,Other,WEAPONS
+9200,Child in Vehicle,CHILD_ABUSE
+9600,Verbal/Emotional,CHILD_ABUSE
+14900,Liquor License Violation,ALCOHOL
+9800,Compulsory Education,CHILD_ABUSE
+11999,Death - Unknown Cause,CHECK
+42200,Drive by Shooting,VANDALISM
+38910,Sex Offender Registration Violation,SEX_OFFENDER
+14710,Possession in Park,ALCOHOL
+38900,Other,SEX_OFFENSE
+45111,Arson,ARSON
+39100,Pornography,PORNOGRAPHY
+29600,Fail to Return,FRAUD
+38700,Indecent Exposure,SEX_OFFENSE
+16666,False Alarm,FIRE
+94449,Wheel Tax Violation,TRAFFIC
+9700,Unsanitary Conditions,CHILD_ABUSE
+99999,Void,VOID
+9400,Lost or Found Child,CHILD_ABUSE
+54112,Lost Cell Phone,CHECK
+5300,of Police Officer,ASSAULT
+14600,Fake ID,ALCOHOL
+14730,Open Container,ALCOHOL
+27444,Overdose,NARCOTICS
+8333,Felon in Possession,WEAPONS
+40122,Civil Standby,CHECK
+82122,Blocking Alley,PARKING
+8222,Discharge in City,WEAPONS
+56300,Suicide Attempt - EPC,SUICIDE
+29200,Checks,FRAUD
+9100,Abandonement,CHILD_ABUSE
+35444,Suspicious Item,CHECK
+4333,False Alarm,FALSE_ALARM
+61222,Obscene Calls,TELEPHONE
+16555,Alarm,FIRE
+82444,Parking,PARKING
+35111,Prowler,PROWLER
+4555,False Alarm,FALSE_ALARM
+94102,Direction,TRAFFIC
+31500,Auto Theft - Elsewhere,THEFT
+23700,Coin Operated Machine,LARCENY
+4666,False Alarm,FALSE_ALARM
+11300,Suicide,SUICIDE
+35555,Stalking,STALKING
+9900,Adult Abuse,ADULT_ABUSE
+23200,Purse Snatch,LARCENY
+39210,Prostitution,PROSTITUTION
+44000,Not Dog,ANIMAL
+14500,Minor Purchase,ALCOHOL
+28333,Traffic Sign Missing,TRAFFIC
+23100,Pocket Pick,LARCENY
+54333,Found Gun,WEAPONS
+47333,Explosion,BOMB
+4777,False Alarm,FALSE_ALARM
+94888,Traffic,TRAFFIC
+17300,Other,FORGERY
+56100,Inhale Vapors,TOXIN
+14150,DUI,ALCOHOL
+24222,Solicit,SOLICIT
+31333,Accidents,TRAFFIC
+44122,Loose Dog,ANIMAL
+11510,Murder,MURDER
+5200,Protection Order - Assault,ASSAULT
+44199,Other Dog,ANIMAL
+44144,Dog Bite,ANIMAL
+94800,Traffic,TRAFFIC
+47222,Threat,BOMB
+36000,Recieve Stolen Property,THEFT
+21500,False Information,FALSE_INFORMATION
+8555,Illegal Weapon,WEAPONS
+31811,Other,ESCAPEE
+61119,Threatening Calls,TELEPHONE
+44133,Injured Dog,ANIMAL
+11100,Accidental Death,CHECK
+31223,Chemical Testing,OPS
+47444,Suspicious Package,BOMB
+3311,Accident,TRAFFIC
+52000,Extortion,EXTORTION
+40144,Locked Out,CHECK
+35666,Threat Management,THREAT_MANAGEMENT
+48000,Presentation,CRIME_PREVENTION
+40555,Special Service,OTHER
+14300,Buy for Minors,ALCOHOL
+27333,Manufacture,NARCOTICS
+12345,Fireworks,FIREWORKS
+48100,Other,CRIME_PREVENTION
+7000,N/A,OTHER
+26000,Special Olympic,OTHER
+39220,Promote/Assist,PROSTITUTION
+38300,Sexual Assault,SEX_OFFENSE
+240,N/A,VOID
+40185,Other,ESCORT
+12344,Fireworks,FIREWORKS
+31700,Missing Person - Outside Jurisdiction,CHECK
+15111,From LPD,ESCAPEE
+17500,False Insurance,FORGERY
+14800,Sale without License,ALCOHOL
+24133,Health Code,HEALTH_CODE
+120,N/A,VOID
+12500,Smoking in Public,DISTURBANCE
+5640,N/A,VOID
+54566,N/A,VOID
+9,N/A,VOID
+23000,Larceny,LARCENY
+3112,N/A,VOID
+55222,Attempted,KIDNAPPING
+17200,Credit Cards,FORGERY
+72111,Parade,PARADE
+27666,Narcotics,NARCOTICS
+8666,Weapons,WEAPONS
+92333,Aircraft Emergency,AIRCRAFT_EMERGENCY
+38180,Rape,SEX_OFFENSE
+55111,Abduction,KIDNAPPING
+38181,Rape,SEX_OFFENSE
+3321,Accident,TRAFFIC
+280,N/A,VOID
+40444,Dignitary Protection,SS
+94666,Speed Survey,TRAFFIC
+4,N/A,VOID
+72122,Protest/March,ESCORT
+4720,N/A,VOID
+41333,N/A,VOID
+47111,Unknown,BOMB
+352,N/A,VOID
+18300,Operate,GAMBLING
+61229,Obscene Call - Protective Order,PROTECTIVE_ORDER
+353,N/A,VOID
+40184,Haz Mat,ESCORT
